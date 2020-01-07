@@ -1,2 +1,2 @@
-# bitbay-core-releases
+# bitbay-core-peg
 Release files including beta testing
